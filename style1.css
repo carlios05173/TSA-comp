@@ -1,0 +1,36 @@
+
+a:link {
+  color: lightgreen;
+  background-color: transparent;
+}
+
+a:visited {
+  color: yellow;
+  background-color: transparent;
+}
+
+a:hover {
+  color: green;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+#main-forsources {
+    Color: white;
+    font-size: 2rem;
+    text-align: center;
+}
+#sources {
+    color: white;
+    font-size: 3rem;
+}
+main{
+    padding-right: 20rem;
+    padding-left: 20rem;
+}
